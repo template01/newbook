@@ -77,7 +77,7 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>How to Template</Content>
+    <Content>Lasses addition</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
